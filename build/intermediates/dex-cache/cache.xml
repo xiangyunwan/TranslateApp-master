@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TranslateApp-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\com.android.support-support-vector-drawable-23.2.0_1f6155c3120fdd4c2bc40961ec5d25a2d6e70078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TranslateApp-master\app\libs\lite-orm-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2641e6c666cb33a0cf2be27ae74e92dff7911571">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\lite-orm-1.7.0_dfb67c45714338b4094043927cecd213b8c3b125.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gradle-2.14.1-all\gradle-2.14.1\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.0.9\5259c1d58a8f2373c2bbb7cb0ff33aee0eef4503\analytics-6.0.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5259c1d58a8f2373c2bbb7cb0ff33aee0eef4503">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\analytics-6.0.9_896b59f86364fff8a062bb6871a7be59b75d08a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TranslateApp-master\app\libs\Bughd_android_sdk_v1.3.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="defde21f1d2b852279dcdc5f0911ae3688f86c0a">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\Bughd_android_sdk_v1.3.7_e38c7dfb72bd787b58540ce24c610ccf43aee17d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TranslateApp-master\app\build\intermediates\exploded-aar\com.jonathanfinerty.once\once\0.5.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="10d24adf8ac78512f0d930e388c8439d3c9ae69b">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\com.jonathanfinerty.once-once-0.5.0_a7af301851979f0171050638ff47a897ff5eb8d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gradle-2.14.1-all\gradle-2.14.1\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\javax.inject-1_e1aabcda2a67dc1c116673ab1b9366088d4f5bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TranslateApp-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\com.android.support-appcompat-v7-23.2.0_302b7090c6821d29d586582c61a897142f7e7f21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gradle-2.14.1-all\gradle-2.14.1\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\retrofit-2.0.0-beta2_b75eaed58087512ef031b8ac8e4478150615855b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gradle-2.14.1-all\gradle-2.14.1\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\converter-gson-2.0.0-beta2_bf5b90d76d1aeb0b2c6bc36e3125a75c1328be52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TranslateApp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\internal_impl-23.2.0_5c5eeae1bf1ae6264e14ec93b40db34e3dfb137c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gradle-2.14.1-all\gradle-2.14.1\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\okio-1.6.0_75d91977daf91f8521be35fcc503f0e29d4f34d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gradle-2.14.1-all\gradle-2.14.1\caches\modules-2\files-2.1\com.google.dagger\dagger\2.0\da7ba0ee1d30edd955da276cdf01d3d7cb24aedc\dagger-2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="da7ba0ee1d30edd955da276cdf01d3d7cb24aedc">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\dagger-2.0_ba4ef3e40418fbfe70cbad3670d6ffbb927d3db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gradle-2.14.1-all\gradle-2.14.1\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\gson-2.3.1_f3406fb833e72d05cfdb17ae71076e311672f29a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gradle-2.14.1-all\gradle-2.14.1\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\okhttp-2.5.0_b0f5987085311e7a9c4692cf2060e1c2df0f04ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TranslateApp-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\com.android.support-animated-vector-drawable-23.2.0_06f36f2fc797b91af0656ed3bb43420d5c235019.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TranslateApp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\com.android.support-support-v4-23.2.0_80f3d11c3aca23c16291cf1a53fd1d24526f1372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gradle-2.14.1-all\gradle-2.14.1\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\butterknife-7.0.1_00acb3d9154b92b6e4b5ac16981d00db74cd6219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TranslateApp-master\app\build\intermediates\exploded-aar\com.orhanobut\logger\1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="109f0ec452925b46b500e8d28ee2cd2d1a0145a9">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\com.orhanobut-logger-1.4_bd5e0bfd6571294ccba806b06bbbb851099b1d9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gradle-2.14.1-all\gradle-2.14.1\caches\modules-2\files-2.1\io.reactivex\rxjava\1.0.14\898f9ab61e2a23afd615f0b0389478bec86f49f9\rxjava-1.0.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="898f9ab61e2a23afd615f0b0389478bec86f49f9">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\rxjava-1.0.14_250b2bb451fbe42f872d3bf5858eb07e51c39220.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gradle-2.14.1-all\gradle-2.14.1\caches\modules-2\files-2.1\com.squareup.retrofit\adapter-rxjava\2.0.0-beta2\3a233746381a03dbb0f5f3ed10b11c3e72dba499\adapter-rxjava-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3a233746381a03dbb0f5f3ed10b11c3e72dba499">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\adapter-rxjava-2.0.0-beta2_26ba2565faafab5e42808b82d6a7ecaf8191f6e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TranslateApp-master\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\io.reactivex-rxandroid-1.0.1_995d27464fdff2887135874d0a6d73762d0881f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TranslateApp-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\com.android.support-recyclerview-v7-23.2.0_dbdbed8ef72a64b09635affccae472221939e6ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JavaIDE\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\github-source\TranslateApp-master\app\build\intermediates\pre-dexed\fir\debug\support-annotations-23.2.0_0471ae19f20aad0ca7de60df5c81a4259eff2625.jar" />
+    </item>
+
+</items>
